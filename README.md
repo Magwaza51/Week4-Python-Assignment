@@ -1,40 +1,32 @@
+📖 README – Week 4 Assignment (Python File Handling)
+📌 Overview
 
-----------------------------------------
-🚀 Outcomes
+This assignment covers Python file handling basics:
 
-By completing this assignment, you will:
+Reading from files
 
-- Understand how to use Python’s open() function.
-- Learn the difference between "r", "w", "a" modes.
-- Handle common file errors using try...except.
-- Build robust Python scripts that won’t crash unexpectedly.
+Writing to files
 
-----------------------------------------
-🚀 Outcomes
+Handling errors safely
 
-By completing this assignment, you will:
+🖋️ File Processing Challenge
 
-- Understand how to use Python’s open() function.
-- Learn the difference between "r", "w", "a" modes.
-- Handle common file errors using try...except.
-- Build robust Python scripts that won’t crash unexpectedly.
+The program:
 
-----------------------------------------
-🚀 Outcomes
+Reads content from an input file.
 
-By completing this assignment, you will:
+Modifies the content (e.g., converts text to uppercase).
 
-- Understand how to use Python’s open() function.
-- Learn the difference between "r", "w", "a" modes.
-- Handle common file errors using try...except.
-- Build robust Python scripts that won’t crash unexpectedly.
+Writes the modified content into a new file.
 
-----------------------------------------
-🚀 Outcomes
+🧪 Error Handling Lab
 
-By completing this assignment, you will:
+The program:
 
-- Understand how to use Python’s open() function.
-- Learn the difference between "r", "w", "a" modes.
-- Handle common file errors using try...except.
-- Build robust Python scripts that won’t crash unexpectedly.
+Asks the user for a filename.
+
+Reads the file if it exists.
+
+Displays clear error messages if the file cannot be found or opened.
+
+
